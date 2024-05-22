@@ -18,11 +18,11 @@ Instacart is an online grocery store that operates through an app. Instacart alr
  
 ## Data & Tools used for analysis
 Several datasets were used: Customers, Orders, Orders_products_prior, Products, Departments
-
-(Please note this was a fictional project for educational purposes.)
 Python was used for analysis using the following libraries:
 - Pandas
 - Numpy
 - Seaborn
 - Matplotlib
 - Scipy
+
+Please note this was a fictional project for educational purposes.
